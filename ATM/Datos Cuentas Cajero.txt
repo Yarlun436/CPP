@@ -1,0 +1,15 @@
+Usuario 1:
+     Tarjeta=123
+     Contraseña=123
+     Nombre=Saul
+     Monto=14000
+Usuario 2:
+     Tarjeta=456
+     Contraseña=123
+     Nombre=Manuel
+     Monto=10000
+Usuario 3:
+     Tarjeta=789
+     Contraseña=123
+     Nombre=Alejandro
+     Monto=6000
